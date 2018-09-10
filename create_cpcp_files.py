@@ -6,7 +6,7 @@ import time
 
 # set up some input params
 srchDir = "/sd-data/2015/mappot_ascii/north/"
-srchFilePtrn = "2015010*.bz2"
+srchFilePtrn = "*.bz2"
 cpcpSrchString = "> Potential:"
 dtSrchString = "d "
 # Loop over the files and collect datetime/cpcp info
