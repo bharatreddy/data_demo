@@ -1,0 +1,12 @@
+*~
+*.pyc
+.DS_store
+*.log
+*.swp
+*-swp
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
